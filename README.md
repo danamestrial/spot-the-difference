@@ -3,6 +3,8 @@
 Please clone the repo with all the images so that you get a smoother experience \
 git repo: https://github.com/danamestrial/spot-the-difference
 
+youtube vid rundown: https://www.youtube.com/watch?v=2vrS8sYoNso
+
 So in this num(meth)math project I shall be doing a basic
 spotting the difference program \
 \
